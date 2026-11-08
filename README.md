@@ -1,2 +1,2 @@
 # info2180-lab5
-Info 2180 Lab 5 - PHP and SQL
+This is lab 5 for Jahchrisi Beadle on PHP and MySQL
